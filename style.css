@@ -5,3 +5,9 @@ h1{
 body{
     background-color: bisque;
 }
+h6{
+    font-family: sans-serif;
+    font-size: 2em;
+    color: rgb(167, 42, 131);
+    text-align: center;
+}
